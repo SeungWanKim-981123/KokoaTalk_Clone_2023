@@ -2,6 +2,7 @@
   display: flex;
   display: center;
   padding: 5px 3px;
+  margin-bottom: 5px;
 }
 .status-bar__column {
   width: 33%;
